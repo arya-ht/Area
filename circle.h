@@ -1,8 +1,7 @@
 #pragma once
 #include "point.h"
-/*
-* Arya HajiTaheri - 1518105
-*/
+// Arya HajiTaheri
+
 class circle :
 	public point
 {

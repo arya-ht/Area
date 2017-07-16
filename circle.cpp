@@ -1,8 +1,7 @@
 #include "circle.h"
 #include <iostream>
-/*
-* Arya HajiTaheri - 1518105
-*/
+// Arya HajiTaheri
+
 circle::circle(){
 }
 circle::~circle(){

@@ -1,8 +1,6 @@
 #pragma once
-/*
-* Arya HajiTaheri - 1518105
-*/
-//Multilevel Inheritance is used since the two derived classes form a single hierarchy: point <- circle <- cylinder.
+// Arya HajiTaheri
+
 class point
 {
 public:

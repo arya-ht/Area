@@ -1,8 +1,7 @@
 #include "cylinder.h"
 #include <iostream>
-/*
-* Arya HajiTaheri - 1518105
-*/
+// Arya HajiTaheri
+
 cylinder::cylinder(){
 }
 cylinder::~cylinder(){

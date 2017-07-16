@@ -1,9 +1,7 @@
 #include <iostream>
 #include <string>
 #include <iomanip>
-/*
-* Arya HajiTaheri - 1518105
-*/
+// Arya HajiTaheri
 #include "point.h"
 #include "circle.h"
 #include "cylinder.h"

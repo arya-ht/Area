@@ -1,8 +1,7 @@
 #pragma once
 #include "circle.h"
-/*
-* Arya HajiTaheri - 1518105
-*/
+// Arya HajiTaheri
+
 class cylinder :
 	public circle
 {
